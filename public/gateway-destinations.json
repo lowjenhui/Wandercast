@@ -1,0 +1,1621 @@
+{
+ "note": "Places reached through a direct-flight city from Singapore plus a road, rail or ferry transfer. Transfer times are typical ranges; check operators before travelling.",
+ "source": "Coordinates: GeoNames via Open-Meteo geocoding. Gateways: public/direct-cities.json (Wikipedia, Changi Airport destinations).",
+ "destinations": [
+  {
+   "name": "Hoi An",
+   "cc": "VN",
+   "country": "Vietnam",
+   "admin1": "Da Nang City",
+   "lat": 15.8794,
+   "lon": 108.335,
+   "timezone": "Asia/Ho_Chi_Minh",
+   "via": {
+    "code": "DAD",
+    "name": "Da Nang",
+    "minutes": [
+     35,
+     50
+    ],
+    "mode": "road"
+   },
+   "km": 24
+  },
+  {
+   "name": "Hue",
+   "cc": "VN",
+   "country": "Vietnam",
+   "admin1": "Thừa Thiên Huế Province",
+   "lat": 16.4619,
+   "lon": 107.5955,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "DAD",
+    "name": "Da Nang",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "road"
+   },
+   "km": 79
+  },
+  {
+   "name": "Ha Long Bay",
+   "cc": "VN",
+   "country": "Vietnam",
+   "admin1": "Quảng Ninh",
+   "lat": 20.9505,
+   "lon": 107.0734,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "HAN",
+    "name": "Hanoi",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "road"
+   },
+   "km": 129
+  },
+  {
+   "name": "Ninh Binh",
+   "cc": "VN",
+   "country": "Vietnam",
+   "admin1": "Ninh Binh",
+   "lat": 20.2581,
+   "lon": 105.9797,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "HAN",
+    "name": "Hanoi",
+    "minutes": [
+     110,
+     130
+    ],
+    "mode": "road"
+   },
+   "km": 87
+  },
+  {
+   "name": "Sapa",
+   "cc": "VN",
+   "country": "Vietnam",
+   "admin1": "Lao Cai",
+   "lat": 22.3402,
+   "lon": 103.8442,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "HAN",
+    "name": "Hanoi",
+    "minutes": [
+     330,
+     360
+    ],
+    "mode": "road"
+   },
+   "km": 252
+  },
+  {
+   "name": "Mui Ne",
+   "cc": "VN",
+   "country": "Vietnam",
+   "admin1": "Lam Dong",
+   "lat": 10.9331,
+   "lon": 108.2833,
+   "timezone": "Asia/Ho_Chi_Minh",
+   "via": {
+    "code": "SGN",
+    "name": "Ho Chi Minh City",
+    "minutes": [
+     240,
+     300
+    ],
+    "mode": "road"
+   },
+   "km": 181
+  },
+  {
+   "name": "Vung Tau",
+   "cc": "VN",
+   "country": "Vietnam",
+   "admin1": "Ho Chi Minh City (HCMC)",
+   "lat": 10.346,
+   "lon": 107.0843,
+   "timezone": "Asia/Ho_Chi_Minh",
+   "via": {
+    "code": "SGN",
+    "name": "Ho Chi Minh City",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "road"
+   },
+   "km": 73
+  },
+  {
+   "name": "Pattaya",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Chon Buri",
+   "lat": 12.9333,
+   "lon": 100.8833,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "BKK",
+    "name": "Bangkok",
+    "minutes": [
+     90,
+     120
+    ],
+    "mode": "road"
+   },
+   "km": 100
+  },
+  {
+   "name": "Hua Hin",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Prachuap Khiri Khan",
+   "lat": 12.5707,
+   "lon": 99.9588,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "BKK",
+    "name": "Bangkok",
+    "minutes": [
+     180,
+     210
+    ],
+    "mode": "road"
+   },
+   "km": 144
+  },
+  {
+   "name": "Ayutthaya",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Phra Nakhon Si Ayutthaya",
+   "lat": 14.3517,
+   "lon": 100.5774,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "BKK",
+    "name": "Bangkok",
+    "minutes": [
+     75,
+     90
+    ],
+    "mode": "road"
+   },
+   "km": 67
+  },
+  {
+   "name": "Kanchanaburi",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Kanchanaburi",
+   "lat": 14.0041,
+   "lon": 99.5483,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "BKK",
+    "name": "Bangkok",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "road"
+   },
+   "km": 107
+  },
+  {
+   "name": "Ao Nang",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Krabi",
+   "lat": 8.0458,
+   "lon": 98.8104,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "KBV",
+    "name": "Krabi",
+    "minutes": [
+     30,
+     40
+    ],
+    "mode": "road"
+   },
+   "km": 20
+  },
+  {
+   "name": "Koh Phi Phi",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Krabi",
+   "lat": 7.7443,
+   "lon": 98.7811,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "HKT",
+    "name": "Phuket",
+    "minutes": [
+     90,
+     120
+    ],
+    "mode": "ferry"
+   },
+   "km": 54
+  },
+  {
+   "name": "Khao Lak",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Phang Nga",
+   "lat": 8.615,
+   "lon": 98.2399,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "HKT",
+    "name": "Phuket",
+    "minutes": [
+     75,
+     90
+    ],
+    "mode": "road"
+   },
+   "km": 75
+  },
+  {
+   "name": "Koh Phangan",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Surat Thani",
+   "lat": 9.7578,
+   "lon": 100.0291,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "USM",
+    "name": "Koh Samui",
+    "minutes": [
+     30,
+     60
+    ],
+    "mode": "ferry"
+   },
+   "km": 23
+  },
+  {
+   "name": "Koh Tao",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Surat Thani",
+   "lat": 9.5499,
+   "lon": 99.6639,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "USM",
+    "name": "Koh Samui",
+    "minutes": [
+     90,
+     120
+    ],
+    "mode": "ferry"
+   },
+   "km": 44
+  },
+  {
+   "name": "Pai",
+   "cc": "TH",
+   "country": "Thailand",
+   "admin1": "Chiang Mai",
+   "lat": 19.3617,
+   "lon": 98.4397,
+   "timezone": "Asia/Bangkok",
+   "via": {
+    "code": "CNX",
+    "name": "Chiang Mai",
+    "minutes": [
+     180,
+     240
+    ],
+    "mode": "road"
+   },
+   "km": 84
+  },
+  {
+   "name": "Cameron Highlands",
+   "cc": "MY",
+   "country": "Malaysia",
+   "admin1": "Pahang",
+   "lat": 4.4636,
+   "lon": 101.3763,
+   "timezone": "Asia/Kuala_Lumpur",
+   "via": {
+    "code": "IPH",
+    "name": "Ipoh",
+    "minutes": [
+     90,
+     120
+    ],
+    "mode": "road"
+   },
+   "km": 35
+  },
+  {
+   "name": "Genting Highlands",
+   "cc": "MY",
+   "country": "Malaysia",
+   "admin1": "Pahang",
+   "lat": 3.4237,
+   "lon": 101.7934,
+   "timezone": "Asia/Kuala_Lumpur",
+   "via": {
+    "code": "KUL",
+    "name": "Kuala Lumpur",
+    "minutes": [
+     60,
+     75
+    ],
+    "mode": "road"
+   },
+   "km": 34
+  },
+  {
+   "name": "Perhentian Islands",
+   "cc": "MY",
+   "country": "Malaysia",
+   "admin1": "Terengganu",
+   "lat": 5.9049,
+   "lon": 102.7246,
+   "timezone": "Asia/Kuala_Lumpur",
+   "via": {
+    "code": "KBR",
+    "name": "Kota Bharu",
+    "minutes": [
+     90,
+     120
+    ],
+    "mode": "road + ferry"
+   },
+   "km": 57
+  },
+  {
+   "name": "Kuala Terengganu",
+   "cc": "MY",
+   "country": "Malaysia",
+   "admin1": "Terengganu",
+   "lat": 5.3302,
+   "lon": 103.1408,
+   "timezone": "Asia/Kuala_Lumpur",
+   "via": {
+    "code": "KBR",
+    "name": "Kota Bharu",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "road"
+   },
+   "km": 132
+  },
+  {
+   "name": "Kundasang (Mount Kinabalu)",
+   "cc": "MY",
+   "country": "Malaysia",
+   "admin1": "Sabah",
+   "lat": 5.9538,
+   "lon": 116.6641,
+   "timezone": "Asia/Kuching",
+   "via": {
+    "code": "BKI",
+    "name": "Kota-Kinabalu",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "road"
+   },
+   "km": 65
+  },
+  {
+   "name": "Ubud",
+   "cc": "ID",
+   "country": "Indonesia",
+   "admin1": "Bali",
+   "lat": -8.5098,
+   "lon": 115.2654,
+   "timezone": "Asia/Makassar",
+   "via": {
+    "code": "DPS",
+    "name": "Denpasar (Bali)",
+    "minutes": [
+     60,
+     90
+    ],
+    "mode": "road"
+   },
+   "km": 19
+  },
+  {
+   "name": "Nusa Penida",
+   "cc": "ID",
+   "country": "Indonesia",
+   "admin1": "Bali",
+   "lat": -8.7346,
+   "lon": 115.5378,
+   "timezone": "Asia/Makassar",
+   "via": {
+    "code": "DPS",
+    "name": "Denpasar (Bali)",
+    "minutes": [
+     75,
+     105
+    ],
+    "mode": "road + ferry"
+   },
+   "km": 36
+  },
+  {
+   "name": "Gili Islands",
+   "cc": "ID",
+   "country": "Indonesia",
+   "admin1": "West Nusa Tenggara",
+   "lat": -8.349,
+   "lon": 116.037,
+   "timezone": "Asia/Makassar",
+   "via": {
+    "code": "LOP",
+    "name": "Praya",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "road + ferry"
+   },
+   "km": 52
+  },
+  {
+   "name": "Mount Bromo",
+   "cc": "ID",
+   "country": "Indonesia",
+   "admin1": "East Java",
+   "lat": -7.9219,
+   "lon": 112.9647,
+   "timezone": "Asia/Jakarta",
+   "via": {
+    "code": "SUB",
+    "name": "Surabaya",
+    "minutes": [
+     180,
+     240
+    ],
+    "mode": "road"
+   },
+   "km": 78
+  },
+  {
+   "name": "Borobudur",
+   "cc": "ID",
+   "country": "Indonesia",
+   "admin1": "Central Java",
+   "lat": -7.6011,
+   "lon": 110.2044,
+   "timezone": "Asia/Jakarta",
+   "via": {
+    "code": "JOG",
+    "name": "Yogyakarta",
+    "minutes": [
+     60,
+     90
+    ],
+    "mode": "road"
+   },
+   "km": 28
+  },
+  {
+   "name": "Lake Toba",
+   "cc": "ID",
+   "country": "Indonesia",
+   "admin1": "North Sumatra",
+   "lat": 2.663,
+   "lon": 98.9349,
+   "timezone": "Asia/Jakarta",
+   "via": {
+    "code": "MES",
+    "name": "Medan",
+    "minutes": [
+     240,
+     300
+    ],
+    "mode": "road"
+   },
+   "km": 108
+  },
+  {
+   "name": "Bukittinggi",
+   "cc": "ID",
+   "country": "Indonesia",
+   "admin1": "West Sumatra",
+   "lat": -0.3091,
+   "lon": 100.3706,
+   "timezone": "Asia/Jakarta",
+   "via": {
+    "code": "PDG",
+    "name": "Padang",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "road"
+   },
+   "km": 71
+  },
+  {
+   "name": "Bohol (Panglao)",
+   "cc": "PH",
+   "country": "Philippines",
+   "admin1": "Central Visayas",
+   "lat": 9.5781,
+   "lon": 123.7458,
+   "timezone": "Asia/Manila",
+   "via": {
+    "code": "CEB",
+    "name": "Cebu City",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "ferry"
+   },
+   "km": 86
+  },
+  {
+   "name": "Moalboal",
+   "cc": "PH",
+   "country": "Philippines",
+   "admin1": "Central Visayas",
+   "lat": 9.9433,
+   "lon": 123.3992,
+   "timezone": "Asia/Manila",
+   "via": {
+    "code": "CEB",
+    "name": "Cebu City",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "road"
+   },
+   "km": 76
+  },
+  {
+   "name": "Baguio",
+   "cc": "PH",
+   "country": "Philippines",
+   "admin1": "Cordillera",
+   "lat": 16.4164,
+   "lon": 120.5931,
+   "timezone": "Asia/Manila",
+   "via": {
+    "code": "CRK",
+    "name": "City of Angeles",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "road"
+   },
+   "km": 141
+  },
+  {
+   "name": "Legazpi",
+   "cc": "PH",
+   "country": "Philippines",
+   "admin1": "Bicol Region",
+   "lat": 13.1413,
+   "lon": 123.7407,
+   "timezone": "Asia/Manila",
+   "via": {
+    "code": "MNL",
+    "name": "Manila",
+    "minutes": [
+     540,
+     600
+    ],
+    "mode": "road"
+   },
+   "km": 339
+  },
+  {
+   "name": "Kampot",
+   "cc": "KH",
+   "country": "Cambodia",
+   "admin1": "Kampot",
+   "lat": 10.6104,
+   "lon": 104.1815,
+   "timezone": "Asia/Phnom_Penh",
+   "via": {
+    "code": "PNH",
+    "name": "Phnom Penh",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "road"
+   },
+   "km": 133
+  },
+  {
+   "name": "Vang Vieng",
+   "cc": "LA",
+   "country": "Laos",
+   "admin1": "Vientiane Province",
+   "lat": 18.9235,
+   "lon": 102.4478,
+   "timezone": "Asia/Vientiane",
+   "via": {
+    "code": "VTE",
+    "name": "Vientiane",
+    "minutes": [
+     60,
+     90
+    ],
+    "mode": "rail"
+   },
+   "km": 107
+  },
+  {
+   "name": "Kyoto",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Kyoto",
+   "lat": 35.0211,
+   "lon": 135.7539,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "OSA",
+    "name": "Osaka",
+    "minutes": [
+     45,
+     75
+    ],
+    "mode": "rail"
+   },
+   "km": 43
+  },
+  {
+   "name": "Nara",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Nara",
+   "lat": 34.685,
+   "lon": 135.8049,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "OSA",
+    "name": "Osaka",
+    "minutes": [
+     45,
+     60
+    ],
+    "mode": "rail"
+   },
+   "km": 28
+  },
+  {
+   "name": "Hiroshima",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Hiroshima",
+   "lat": 34.4,
+   "lon": 132.45,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "OSA",
+    "name": "Osaka",
+    "minutes": [
+     90,
+     120
+    ],
+    "mode": "rail"
+   },
+   "km": 281
+  },
+  {
+   "name": "Hakone",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Kanagawa",
+   "lat": 35.1895,
+   "lon": 139.0265,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "TYO",
+    "name": "Tokyo",
+    "minutes": [
+     90,
+     120
+    ],
+    "mode": "rail"
+   },
+   "km": 78
+  },
+  {
+   "name": "Nikko",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Tochigi",
+   "lat": 36.75,
+   "lon": 139.6167,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "TYO",
+    "name": "Tokyo",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "rail"
+   },
+   "km": 119
+  },
+  {
+   "name": "Kanazawa",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Ishikawa",
+   "lat": 36.6,
+   "lon": 136.6167,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "TYO",
+    "name": "Tokyo",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "rail"
+   },
+   "km": 291
+  },
+  {
+   "name": "Mount Fuji (Kawaguchiko)",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Yamanashi",
+   "lat": 35.4893,
+   "lon": 138.6883,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "TYO",
+    "name": "Tokyo",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "road"
+   },
+   "km": 89
+  },
+  {
+   "name": "Niseko",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Hokkaido",
+   "lat": 42.9011,
+   "lon": 140.7406,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "SPK",
+    "name": "Sapporo",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "road"
+   },
+   "km": 53
+  },
+  {
+   "name": "Otaru",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Hokkaido",
+   "lat": 43.1894,
+   "lon": 141.0022,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "SPK",
+    "name": "Sapporo",
+    "minutes": [
+     40,
+     50
+    ],
+    "mode": "rail"
+   },
+   "km": 32
+  },
+  {
+   "name": "Furano",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Hokkaido",
+   "lat": 43.35,
+   "lon": 142.3833,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "SPK",
+    "name": "Sapporo",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "rail"
+   },
+   "km": 89
+  },
+  {
+   "name": "Hakodate",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Hokkaido",
+   "lat": 41.7758,
+   "lon": 140.7367,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "SPK",
+    "name": "Sapporo",
+    "minutes": [
+     210,
+     240
+    ],
+    "mode": "rail"
+   },
+   "km": 152
+  },
+  {
+   "name": "Kushiro",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Hokkaido",
+   "lat": 42.975,
+   "lon": 144.3747,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "SPK",
+    "name": "Sapporo",
+    "minutes": [
+     240,
+     270
+    ],
+    "mode": "rail"
+   },
+   "km": 246
+  },
+  {
+   "name": "Abashiri",
+   "cc": "JP",
+   "country": "Japan",
+   "admin1": "Hokkaido",
+   "lat": 44.0213,
+   "lon": 144.2697,
+   "timezone": "Asia/Tokyo",
+   "via": {
+    "code": "SPK",
+    "name": "Sapporo",
+    "minutes": [
+     330,
+     360
+    ],
+    "mode": "rail"
+   },
+   "km": 258
+  },
+  {
+   "name": "Gyeongju",
+   "cc": "KR",
+   "country": "South Korea",
+   "admin1": "Gyeongsangbuk-do",
+   "lat": 35.8428,
+   "lon": 129.2117,
+   "timezone": "Asia/Seoul",
+   "via": {
+    "code": "PUS",
+    "name": "Busan",
+    "minutes": [
+     60,
+     75
+    ],
+    "mode": "road"
+   },
+   "km": 75
+  },
+  {
+   "name": "Jiufen",
+   "cc": "TW",
+   "country": "Taiwan",
+   "admin1": "Taipei",
+   "lat": 25.1085,
+   "lon": 121.8054,
+   "timezone": "Asia/Taipei",
+   "via": {
+    "code": "TPE",
+    "name": "Taipei",
+    "minutes": [
+     60,
+     75
+    ],
+    "mode": "road"
+   },
+   "km": 26
+  },
+  {
+   "name": "Hualien (Taroko)",
+   "cc": "TW",
+   "country": "Taiwan",
+   "admin1": "Taiwan",
+   "lat": 23.9769,
+   "lon": 121.6044,
+   "timezone": "Asia/Taipei",
+   "via": {
+    "code": "TPE",
+    "name": "Taipei",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "rail"
+   },
+   "km": 117
+  },
+  {
+   "name": "Taichung",
+   "cc": "TW",
+   "country": "Taiwan",
+   "admin1": "Taiwan",
+   "lat": 24.1469,
+   "lon": 120.6839,
+   "timezone": "Asia/Taipei",
+   "via": {
+    "code": "TPE",
+    "name": "Taipei",
+    "minutes": [
+     60,
+     75
+    ],
+    "mode": "rail"
+   },
+   "km": 133
+  },
+  {
+   "name": "Tainan",
+   "cc": "TW",
+   "country": "Taiwan",
+   "admin1": "Taiwan",
+   "lat": 22.9926,
+   "lon": 120.2051,
+   "timezone": "Asia/Taipei",
+   "via": {
+    "code": "KHH",
+    "name": "Kaohsiung",
+    "minutes": [
+     40,
+     50
+    ],
+    "mode": "rail"
+   },
+   "km": 42
+  },
+  {
+   "name": "Suzhou",
+   "cc": "CN",
+   "country": "China",
+   "admin1": "Jiangsu",
+   "lat": 31.3041,
+   "lon": 120.5954,
+   "timezone": "Asia/Shanghai",
+   "via": {
+    "code": "SHA",
+    "name": "Shanghai",
+    "minutes": [
+     30,
+     60
+    ],
+    "mode": "rail"
+   },
+   "km": 84
+  },
+  {
+   "name": "Guilin",
+   "cc": "CN",
+   "country": "China",
+   "admin1": "Guangxi",
+   "lat": 25.2802,
+   "lon": 110.2964,
+   "timezone": "Asia/Shanghai",
+   "via": {
+    "code": "CAN",
+    "name": "Guangzhou",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "rail"
+   },
+   "km": 384
+  },
+  {
+   "name": "Huangshan",
+   "cc": "CN",
+   "country": "China",
+   "admin1": "Anhui",
+   "lat": 29.7114,
+   "lon": 118.3125,
+   "timezone": "Asia/Shanghai",
+   "via": {
+    "code": "HGH",
+    "name": "Hangzhou",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "rail"
+   },
+   "km": 188
+  },
+  {
+   "name": "Lijiang",
+   "cc": "CN",
+   "country": "China",
+   "admin1": "Yunnan",
+   "lat": 26.8688,
+   "lon": 100.2207,
+   "timezone": "Asia/Shanghai",
+   "via": {
+    "code": "KMG",
+    "name": "Kunming",
+    "minutes": [
+     210,
+     240
+    ],
+    "mode": "rail"
+   },
+   "km": 342
+  },
+  {
+   "name": "Dali",
+   "cc": "CN",
+   "country": "China",
+   "admin1": "Yunnan",
+   "lat": 25.5847,
+   "lon": 100.2123,
+   "timezone": "Asia/Shanghai",
+   "via": {
+    "code": "KMG",
+    "name": "Kunming",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "rail"
+   },
+   "km": 275
+  },
+  {
+   "name": "Jiuzhaigou",
+   "cc": "CN",
+   "country": "China",
+   "admin1": "Sichuan",
+   "lat": 33.296,
+   "lon": 103.8649,
+   "timezone": "Asia/Shanghai",
+   "via": {
+    "code": "CTU",
+    "name": "Chengdu",
+    "minutes": [
+     480,
+     600
+    ],
+    "mode": "road"
+   },
+   "km": 303
+  },
+  {
+   "name": "Yangshuo",
+   "cc": "CN",
+   "country": "China",
+   "admin1": "Guangxi",
+   "lat": 24.7808,
+   "lon": 110.4897,
+   "timezone": "Asia/Shanghai",
+   "via": {
+    "code": "CAN",
+    "name": "Guangzhou",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "rail"
+   },
+   "km": 336
+  },
+  {
+   "name": "Zhangye",
+   "cc": "CN",
+   "country": "China",
+   "admin1": "Gansu",
+   "lat": 38.9342,
+   "lon": 100.4517,
+   "timezone": "Asia/Shanghai",
+   "via": {
+    "code": "LHW",
+    "name": "Lanzhou",
+    "minutes": [
+     180,
+     240
+    ],
+    "mode": "rail"
+   },
+   "km": 437
+  },
+  {
+   "name": "Xishuangbanna",
+   "cc": "CN",
+   "country": "China",
+   "admin1": "Yunnan",
+   "lat": 22.0148,
+   "lon": 100.7984,
+   "timezone": "Asia/Shanghai",
+   "via": {
+    "code": "KMG",
+    "name": "Kunming",
+    "minutes": [
+     210,
+     240
+    ],
+    "mode": "rail"
+   },
+   "km": 380
+  },
+  {
+   "name": "Agra",
+   "cc": "IN",
+   "country": "India",
+   "admin1": "Uttar Pradesh",
+   "lat": 27.1833,
+   "lon": 78.0167,
+   "timezone": "Asia/Kolkata",
+   "via": {
+    "code": "DEL",
+    "name": "New Delhi",
+    "minutes": [
+     120,
+     180
+    ],
+    "mode": "rail"
+   },
+   "km": 178
+  },
+  {
+   "name": "Jaipur",
+   "cc": "IN",
+   "country": "India",
+   "admin1": "Rajasthan",
+   "lat": 26.9196,
+   "lon": 75.7878,
+   "timezone": "Asia/Kolkata",
+   "via": {
+    "code": "DEL",
+    "name": "New Delhi",
+    "minutes": [
+     270,
+     300
+    ],
+    "mode": "rail"
+   },
+   "km": 235
+  },
+  {
+   "name": "Munnar",
+   "cc": "IN",
+   "country": "India",
+   "admin1": "Kerala",
+   "lat": 10.0882,
+   "lon": 77.0624,
+   "timezone": "Asia/Kolkata",
+   "via": {
+    "code": "COK",
+    "name": "Kochi",
+    "minutes": [
+     180,
+     240
+    ],
+    "mode": "road"
+   },
+   "km": 89
+  },
+  {
+   "name": "Alleppey",
+   "cc": "IN",
+   "country": "India",
+   "admin1": "Kerala",
+   "lat": 9.49,
+   "lon": 76.3264,
+   "timezone": "Asia/Kolkata",
+   "via": {
+    "code": "COK",
+    "name": "Kochi",
+    "minutes": [
+     75,
+     90
+    ],
+    "mode": "road"
+   },
+   "km": 49
+  },
+  {
+   "name": "Mysuru",
+   "cc": "IN",
+   "country": "India",
+   "admin1": "Karnataka",
+   "lat": 12.2979,
+   "lon": 76.6393,
+   "timezone": "Asia/Kolkata",
+   "via": {
+    "code": "BLR",
+    "name": "Bengaluru",
+    "minutes": [
+     180,
+     210
+    ],
+    "mode": "road"
+   },
+   "km": 128
+  },
+  {
+   "name": "Kandy",
+   "cc": "LK",
+   "country": "Sri Lanka",
+   "admin1": "Central Province",
+   "lat": 7.2906,
+   "lon": 80.6336,
+   "timezone": "Asia/Colombo",
+   "via": {
+    "code": "CMB",
+    "name": "Colombo",
+    "minutes": [
+     150,
+     180
+    ],
+    "mode": "road"
+   },
+   "km": 96
+  },
+  {
+   "name": "Galle",
+   "cc": "LK",
+   "country": "Sri Lanka",
+   "admin1": "Southern Province",
+   "lat": 6.0461,
+   "lon": 80.2103,
+   "timezone": "Asia/Colombo",
+   "via": {
+    "code": "CMB",
+    "name": "Colombo",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "road"
+   },
+   "km": 106
+  },
+  {
+   "name": "Sigiriya",
+   "cc": "LK",
+   "country": "Sri Lanka",
+   "admin1": "Central Province",
+   "lat": 7.9495,
+   "lon": 80.7504,
+   "timezone": "Asia/Colombo",
+   "via": {
+    "code": "CMB",
+    "name": "Colombo",
+    "minutes": [
+     240,
+     300
+    ],
+    "mode": "road"
+   },
+   "km": 151
+  },
+  {
+   "name": "Trincomalee",
+   "cc": "LK",
+   "country": "Sri Lanka",
+   "admin1": "Eastern Province",
+   "lat": 8.5778,
+   "lon": 81.2289,
+   "timezone": "Asia/Colombo",
+   "via": {
+    "code": "CMB",
+    "name": "Colombo",
+    "minutes": [
+     330,
+     390
+    ],
+    "mode": "road"
+   },
+   "km": 238
+  },
+  {
+   "name": "Pasikudah",
+   "cc": "LK",
+   "country": "Sri Lanka",
+   "admin1": "Eastern Province",
+   "lat": 7.9167,
+   "lon": 81.5667,
+   "timezone": "Asia/Colombo",
+   "via": {
+    "code": "CMB",
+    "name": "Colombo",
+    "minutes": [
+     360,
+     420
+    ],
+    "mode": "road"
+   },
+   "km": 219
+  },
+  {
+   "name": "Arugam Bay",
+   "cc": "LK",
+   "country": "Sri Lanka",
+   "admin1": "Eastern Province",
+   "lat": 6.8762,
+   "lon": 81.8267,
+   "timezone": "Asia/Colombo",
+   "via": {
+    "code": "CMB",
+    "name": "Colombo",
+    "minutes": [
+     420,
+     480
+    ],
+    "mode": "road"
+   },
+   "km": 218
+  },
+  {
+   "name": "Jaffna",
+   "cc": "LK",
+   "country": "Sri Lanka",
+   "admin1": "Northern Province",
+   "lat": 9.6685,
+   "lon": 80.0074,
+   "timezone": "Asia/Colombo",
+   "via": {
+    "code": "CMB",
+    "name": "Colombo",
+    "minutes": [
+     360,
+     420
+    ],
+    "mode": "rail"
+   },
+   "km": 305
+  },
+  {
+   "name": "Gold Coast",
+   "cc": "AU",
+   "country": "Australia",
+   "admin1": "Queensland",
+   "lat": -28.0003,
+   "lon": 153.4309,
+   "timezone": "Australia/Brisbane",
+   "via": {
+    "code": "BNE",
+    "name": "Brisbane",
+    "minutes": [
+     60,
+     75
+    ],
+    "mode": "road"
+   },
+   "km": 71
+  },
+  {
+   "name": "Byron Bay",
+   "cc": "AU",
+   "country": "Australia",
+   "admin1": "New South Wales",
+   "lat": -28.6499,
+   "lon": 153.6125,
+   "timezone": "Australia/Sydney",
+   "via": {
+    "code": "BNE",
+    "name": "Brisbane",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "road"
+   },
+   "km": 143
+  },
+  {
+   "name": "Blue Mountains",
+   "cc": "AU",
+   "country": "Australia",
+   "admin1": "New South Wales",
+   "lat": -33.7198,
+   "lon": 150.3074,
+   "timezone": "Australia/Sydney",
+   "via": {
+    "code": "SYD",
+    "name": "Sydney",
+    "minutes": [
+     120,
+     150
+    ],
+    "mode": "rail"
+   },
+   "km": 85
+  },
+  {
+   "name": "Port Douglas",
+   "cc": "AU",
+   "country": "Australia",
+   "admin1": "Queensland",
+   "lat": -16.4838,
+   "lon": 145.4673,
+   "timezone": "Australia/Brisbane",
+   "via": {
+    "code": "CNS",
+    "name": "Cairns",
+    "minutes": [
+     60,
+     75
+    ],
+    "mode": "road"
+   },
+   "km": 59
+  },
+  {
+   "name": "Margaret River",
+   "cc": "AU",
+   "country": "Australia",
+   "admin1": "Western Australia",
+   "lat": -33.955,
+   "lon": 115.076,
+   "timezone": "Australia/Perth",
+   "via": {
+    "code": "PER",
+    "name": "Perth",
+    "minutes": [
+     180,
+     210
+    ],
+    "mode": "road"
+   },
+   "km": 234
+  },
+  {
+   "name": "Florence",
+   "cc": "IT",
+   "country": "Italy",
+   "admin1": "Tuscany",
+   "lat": 43.7793,
+   "lon": 11.2463,
+   "timezone": "Europe/Rome",
+   "via": {
+    "code": "ROM",
+    "name": "Rome",
+    "minutes": [
+     90,
+     100
+    ],
+    "mode": "rail"
+   },
+   "km": 233
+  },
+  {
+   "name": "Venice",
+   "cc": "IT",
+   "country": "Italy",
+   "admin1": "Veneto",
+   "lat": 45.4371,
+   "lon": 12.3326,
+   "timezone": "Europe/Rome",
+   "via": {
+    "code": "MIL",
+    "name": "Milan",
+    "minutes": [
+     140,
+     160
+    ],
+    "mode": "rail"
+   },
+   "km": 245
+  },
+  {
+   "name": "Interlaken",
+   "cc": "CH",
+   "country": "Switzerland",
+   "admin1": "Canton of Bern",
+   "lat": 46.6839,
+   "lon": 7.8664,
+   "timezone": "Europe/Zurich",
+   "via": {
+    "code": "ZRH",
+    "name": "Zurich",
+    "minutes": [
+     120,
+     140
+    ],
+    "mode": "rail"
+   },
+   "km": 92
+  },
+  {
+   "name": "Lucerne",
+   "cc": "CH",
+   "country": "Switzerland",
+   "admin1": "Canton of Lucerne",
+   "lat": 47.0505,
+   "lon": 8.3064,
+   "timezone": "Europe/Zurich",
+   "via": {
+    "code": "ZRH",
+    "name": "Zurich",
+    "minutes": [
+     45,
+     60
+    ],
+    "mode": "rail"
+   },
+   "km": 40
+  },
+  {
+   "name": "Salzburg",
+   "cc": "AT",
+   "country": "Austria",
+   "admin1": "State of Salzburg",
+   "lat": 47.7994,
+   "lon": 13.044,
+   "timezone": "Europe/Vienna",
+   "via": {
+    "code": "MUC",
+    "name": "Munich",
+    "minutes": [
+     90,
+     120
+    ],
+    "mode": "rail"
+   },
+   "km": 115
+  },
+  {
+   "name": "Bruges",
+   "cc": "BE",
+   "country": "Belgium",
+   "admin1": "Flanders",
+   "lat": 51.2089,
+   "lon": 3.2242,
+   "timezone": "Europe/Brussels",
+   "via": {
+    "code": "BRU",
+    "name": "Brussels",
+    "minutes": [
+     60,
+     75
+    ],
+    "mode": "rail"
+   },
+   "km": 88
+  }
+ ]
+}

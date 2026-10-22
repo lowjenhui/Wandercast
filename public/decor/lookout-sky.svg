@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 520" preserveAspectRatio="xMidYMin slice">
+  <!-- Puff's Lookout backdrop: the home sky's clouds, sun and sparkles, without the flight path. Decorative only. -->
+  <g fill="#ffffff">
+    <path d="M118 118c0-26 21-47 47-47 18 0 34 10 42 25 6-3 13-5 20-5 24 0 43 19 43 43 0 2 0 3 0 5h-152z" opacity="0.9"/>
+    <path d="M1080 92c0-22 18-40 40-40 15 0 28 8 35 21 5-3 11-4 17-4 21 0 37 17 37 37v2h-129z" opacity="0.85"/>
+    <path d="M640 210c0-17 14-31 31-31 12 0 22 7 27 16 4-2 9-3 13-3 16 0 29 13 29 29v2h-100z" opacity="0.7"/>
+    <path d="M1290 300c0-20 16-36 36-36 14 0 26 8 32 19 4-2 9-3 14-3 18 0 33 15 33 33v2h-115z" opacity="0.65"/>
+    <path d="M30 330c0-17 14-31 31-31 12 0 22 7 27 16 4-2 9-3 13-3 16 0 29 13 29 29v2h-100z" opacity="0.6"/>
+  </g>
+  <g transform="translate(1250 70)">
+    <circle r="22" fill="#ffd166"/>
+    <g stroke="#ffd166" stroke-width="4" stroke-linecap="round">
+      <path d="M0 -36v-8M0 36v8M-36 0h-8M36 0h8M-25 -25l-6 -6M25 25l6 6M-25 25l-6 6M25 -25l6 -6"/>
+    </g>
+  </g>
+  <g fill="#ffd166" opacity="0.9">
+    <path d="M420 90l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+    <path d="M900 300l2 6 6 2 -6 2 -2 6 -2 -6 -6 -2 6 -2z"/>
+    <path d="M300 410l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "source": {
+    "name": "GPCP Version 2.3 Combined Precipitation Dataset (Final) \u2014 monthly long-term mean 1991/01/01 - 2020/12/31",
+    "url": "https://psl.noaa.gov/data/gridded/data.gpcp.html",
+    "citation": "Adler et al. (2003), J. Hydrometeor. 4, 1147\u20131167; data provided by NOAA PSL, Boulder, Colorado, USA."
+  },
+  "units": "mm/month",
+  "lat0": 88.75,
+  "dlat": -2.5,
+  "nlat": 72,
+  "lon0": 1.25,
+  "dlon": 2.5,
+  "nlon": 144,
+  "months": 12,
+  "max": 884
+}

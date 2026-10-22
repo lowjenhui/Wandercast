@@ -1,0 +1,34 @@
+{
+  "note": "Scheduled passenger ferries from Singapore. Crossing times are typical ranges from operator and booking sites; schedules change, so confirm with the operator.",
+  "sources": [
+    { "name": "Netferry: ferries from Singapore", "url": "https://www.netferry.com/ferries/from/singapore" },
+    { "name": "Go-Ferry: Singapore ferry routes", "url": "https://www.go-ferry.com/routes/singapore-ferry-routes" }
+  ],
+  "destinations": [
+    {
+      "code": "FERRY-BATAM", "name": "Batam", "cc": "ID", "country": "Indonesia", "lat": 1.1279, "lon": 104.0531,
+      "terminal": "HarbourFront", "ports": "Batam Centre, Harbour Bay, Sekupang", "minutes": [50, 70],
+      "operators": ["Horizon Fast Ferry"], "notes": "Harbour Bay is the shortest crossing (about 50 min)."
+    },
+    {
+      "code": "FERRY-BINTAN", "name": "Bintan (Lagoi resorts)", "cc": "ID", "country": "Indonesia", "lat": 1.17, "lon": 104.36,
+      "terminal": "Tanah Merah", "ports": "Bandar Bentan Telani", "minutes": [60, 70],
+      "operators": ["Bintan Resort Ferries"], "notes": "Gateway to the resorts of northern Bintan."
+    },
+    {
+      "code": "FERRY-TANJUNGPINANG", "name": "Tanjung Pinang (Bintan)", "cc": "ID", "country": "Indonesia", "lat": 0.9186, "lon": 104.4554,
+      "terminal": "Tanah Merah", "ports": "Sri Bintan Pura", "minutes": [100, 110],
+      "operators": [], "notes": "Bintan's main town, on the island's west coast."
+    },
+    {
+      "code": "FERRY-DESARU", "name": "Desaru Coast", "cc": "MY", "country": "Malaysia", "lat": 1.553, "lon": 104.262,
+      "terminal": "Tanah Merah", "ports": "Desaru Coast Ferry Terminal", "minutes": [90, 90],
+      "operators": ["Batam Fast"], "notes": "Not daily: usually Thursday to Monday."
+    },
+    {
+      "code": "FERRY-KARIMUN", "name": "Karimun (Tanjung Balai)", "cc": "ID", "country": "Indonesia", "lat": 0.996, "lon": 103.427,
+      "terminal": "HarbourFront", "ports": "Tanjung Balai Karimun", "minutes": [90, 90],
+      "operators": ["Sindo Ferry"], "notes": "Fewer sailings than Batam and Bintan; check the schedule."
+    }
+  ]
+}

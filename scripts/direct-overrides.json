@@ -1,0 +1,4 @@
+{
+  "note": "Announced direct routes from SIN that Wikipedia's Changi Airport table doesn't list yet. Merged by scripts/build-direct.mjs (npm run direct); the build prints which ones Wikipedia now lists so they can be deleted here. Entry shape: { \"airline\": \"Scoot\", \"airport\": \"KWE\", \"from\": \"2026-10-26\", \"source\": \"…\", \"added\": \"YYYY-MM-DD\" }. airport is the IATA code; from/until are inclusive YYYY-MM-DD dates and optional.",
+  "routes": []
+}

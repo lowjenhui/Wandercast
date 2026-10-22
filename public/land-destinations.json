@@ -1,0 +1,199 @@
+{
+  "note": "Popular overland trips from Singapore by coach, bus or train. Times are typical door-to-door ranges including the Woodlands or Tuas checkpoint on a normal day; weekend and holiday queues can add 1–3 hours. Places that also have a flight (or a flight plus transfer) keep it; this adds the overland option. Compiled October 2026 from operator listings, booking sites and travel guides; check the operator before travelling. Update when the RTS Link opens (expected February 2027).",
+  "sources": [
+    { "name": "Causeway Link and KTM Shuttle Tebrau guides (You.co, Wise)", "url": "https://wise.com/sg/blog/bus-to-jb" },
+    { "name": "JB–Singapore RTS Link start (Malay Mail, 2 Oct 2026)", "url": "https://www.malaymail.com/news/malaysia/2026/10/02/jb-singapore-rts-link-service-start-pushed-back-to-february-2027/237411" }
+  ],
+  "destinations": [
+    {
+      "code": "LAND-JB",
+      "name": "Johor Bahru",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 1.4655,
+      "lon": 103.7578,
+      "modes": ["bus", "train"],
+      "from": "Queen Street, Kranji or Woodlands (bus); Woodlands Train Checkpoint (KTM Shuttle Tebrau)",
+      "minutes": [45, 90],
+      "operators": ["Causeway Link (CW1, CW2)", "SBS Transit 170", "KTM Shuttle Tebrau"],
+      "notes": "The Shuttle Tebrau train is about 5 minutes across the Causeway; buses run round the clock (CW2). Weekend peaks can add 1–3 hours at the checkpoints. The RTS Link (Woodlands North to Bukit Chagar, about 5 minutes) is expected to open in February 2027.",
+      "sources": [
+        { "name": "Bus to JB from Singapore (Wise, 2026)", "url": "https://wise.com/sg/blog/bus-to-jb" },
+        { "name": "Bus from Singapore to JB (You.co)", "url": "https://www.you.co/sg/blog/bus-from-singapore-to-jb/" },
+        { "name": "KTM Shuttle Tebrau guide (MoneySmart)", "url": "https://blog.moneysmart.sg/travel/ktm-train-to-jb-guide" }
+      ]
+    },
+    {
+      "code": "LAND-DESARU",
+      "name": "Desaru Coast",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 1.5576,
+      "lon": 104.2592,
+      "modes": ["shuttle van", "car"],
+      "from": "Pickup from home or a meeting point (shared 7-seater shuttles)",
+      "minutes": [120, 180],
+      "operators": ["Private shuttle operators"],
+      "notes": "About 1.5 hours by road from Woodlands Checkpoint; Causeway jams can stretch it to 5 hours. Shared shuttles often need a minimum group size.",
+      "sources": [
+        { "name": "Singapore to Desaru transport guide (TheSmartLocal)", "url": "https://thesmartlocal.com/read/singapore-to-desaru-transport-guide/" },
+        { "name": "Getting to Desaru Coast", "url": "https://desarucoast.com/visit" }
+      ]
+    },
+    {
+      "code": "LAND-MUAR",
+      "name": "Muar",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 2.0442,
+      "lon": 102.5689,
+      "modes": ["coach"],
+      "from": "Golden Mile Tower (direct), or JB Larkin Terminal (Mayang Sari Express, about 3 hours)",
+      "minutes": [240, 270],
+      "operators": ["StarMart Express"],
+      "notes": "One direct coach a day; more options via Larkin in Johor Bahru.",
+      "sources": [{ "name": "Singapore to Muar routes (Rome2Rio)", "url": "https://www.rome2rio.com/s/Bugis-MRT-Station/Muar" }]
+    },
+    {
+      "code": "LAND-MELAKA",
+      "name": "Malacca",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 2.1896,
+      "lon": 102.2501,
+      "modes": ["coach"],
+      "from": "Queen Street, Golden Mile, HarbourFront or Boon Lay",
+      "minutes": [240, 360],
+      "operators": ["KKKL Express", "707", "Transtar", "Star Qistina", "WTS Travel"],
+      "notes": "Most coaches arrive at Melaka Sentral; fares rise at weekends and on public holidays.",
+      "sources": [
+        { "name": "Singapore to Malacca transport guide (Expatolife)", "url": "https://www.expatolife.com/singapore-to-malacca-malaysia/" },
+        { "name": "Singapore to Malacca buses (redBus)", "url": "https://www.redbus.com/bus-ticket/singapore-to-malacca" }
+      ]
+    },
+    {
+      "code": "LAND-PD",
+      "name": "Port Dickson",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 2.5228,
+      "lon": 101.7963,
+      "modes": ["coach"],
+      "from": "Concorde Hotel (Orchard Road)",
+      "minutes": [330, 465],
+      "operators": ["Golden Coach", "KKKL Express"],
+      "notes": "About 3.5 hours by car; direct coaches run most days, arriving at beach resorts.",
+      "sources": [
+        { "name": "Singapore to Port Dickson routes (Rome2Rio)", "url": "https://www.rome2rio.com/s/Queen-Street-Bus-Terminal/Port-Dickson" },
+        { "name": "How to travel from Singapore to Port Dickson (Dive into Malaysia)", "url": "https://diveintomalaysia.com/how-to-travel-from-singapore-to-port-dickson/" }
+      ]
+    },
+    {
+      "code": "LAND-MERSING",
+      "name": "Mersing",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 2.4312,
+      "lon": 103.8405,
+      "modes": ["coach"],
+      "from": "Golden Mile Complex (direct), or JB Larkin Terminal",
+      "minutes": [180, 240],
+      "operators": ["WTS Travel", "Grassland Express"],
+      "notes": "Gateway to Tioman and the Mersing islands by ferry. Some coaches stop at the bus terminal, a short taxi from the jetty. Island ferries are reduced or suspended in the northeast monsoon (about November to February).",
+      "sources": [
+        { "name": "Bus to Mersing guide (TheSmartLocal)", "url": "https://thesmartlocal.com/read/bus-to-mersing-malaysia/" },
+        { "name": "Singapore to Tioman guide (Trip.com)", "url": "https://sg.trip.com/guide/info/singapore-to-tioman-island.html" }
+      ]
+    },
+    {
+      "code": "LAND-KUL",
+      "name": "Kuala Lumpur",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 3.139,
+      "lon": 101.6869,
+      "modes": ["coach"],
+      "from": "Golden Mile, HarbourFront, Queen Street and suburban pickups",
+      "minutes": [300, 360],
+      "operators": ["Aeroline", "Transtar", "KKKL Express", "707"],
+      "notes": "Frequent departures through the day; arrival at TBS or city-centre stops depending on the operator.",
+      "sources": [
+        { "name": "Singapore to Kuala Lumpur by bus (GeckoRoutes)", "url": "https://www.geckoroutes.com/singapore/malaysia/singapore-to-kuala-lumpur/" },
+        { "name": "Singapore–Kuala Lumpur express buses (Rail Travel Station)", "url": "https://railtravelstation.com/singapore-kuala-lumpur-express-bus/" }
+      ]
+    },
+    {
+      "code": "LAND-GENTING",
+      "name": "Genting Highlands",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 3.4236,
+      "lon": 101.7932,
+      "modes": ["coach"],
+      "from": "Golden Mile and suburban pickups (Woodlands, Jurong East, Tampines and others)",
+      "minutes": [370, 420],
+      "operators": ["Transtar", "707", "KKKL Express", "StarMart Express", "WTS Travel"],
+      "notes": "Coaches arrive at the Awana terminal; morning and late-night departures.",
+      "sources": [{ "name": "Genting Highlands from Singapore (TheSmartLocal)", "url": "https://thesmartlocal.com/read/genting-highlands-from-singapore/" }]
+    },
+    {
+      "code": "LAND-IPOH",
+      "name": "Ipoh",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 4.5975,
+      "lon": 101.0901,
+      "modes": ["coach"],
+      "from": "Golden Mile Complex",
+      "minutes": [450, 510],
+      "operators": ["StarMart Express"],
+      "notes": "A few direct coaches a day to Terminal Meru Raya.",
+      "sources": [{ "name": "Singapore to Ipoh routes (Rome2Rio)", "url": "https://www.rome2rio.com/s/Queen-Street-Bus-Terminal/Ipoh" }]
+    },
+    {
+      "code": "LAND-CAMERON",
+      "name": "Cameron Highlands",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 4.4721,
+      "lon": 101.3801,
+      "modes": ["coach"],
+      "from": "Golden Mile Tower or Boon Lay (overnight)",
+      "minutes": [540, 810],
+      "operators": ["StarMart Express"],
+      "notes": "Overnight coaches to Tanah Rata; some trips change in Kuala Lumpur.",
+      "sources": [
+        { "name": "Singapore to Cameron Highlands (TheSmartLocal)", "url": "https://thesmartlocal.com/read/singapore-to-cameron-highlands/" },
+        { "name": "Singapore to Cameron Highlands buses (redBus)", "url": "https://redbus.com/bus-ticket/singapore-to-cameron-highlands" }
+      ]
+    },
+    {
+      "code": "LAND-PENANG",
+      "name": "Penang",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 5.4141,
+      "lon": 100.3288,
+      "modes": ["coach"],
+      "from": "Golden Mile and other city pickups (evening departures)",
+      "minutes": [600, 660],
+      "operators": ["Grassland Express", "StarMart Express", "Transtar", "WTS Travel", "KKKL Express"],
+      "notes": "Mostly overnight coaches.",
+      "sources": [{ "name": "Singapore to Penang buses (redBus)", "url": "https://www.redbus.com/bus-ticket/singapore-to-penang" }]
+    },
+    {
+      "code": "LAND-KUANTAN",
+      "name": "Kuantan",
+      "cc": "MY",
+      "country": "Malaysia",
+      "lat": 3.8077,
+      "lon": 103.326,
+      "modes": ["coach"],
+      "from": "Oxley BizHub or Boon Lay",
+      "minutes": [395, 430],
+      "operators": ["Coach operators listed on Omio"],
+      "notes": "East coast: the northeast monsoon (about November to February) brings heavy rain and rough seas.",
+      "sources": [{ "name": "Singapore to Kuantan buses (Omio)", "url": "https://www.omio.fr/bus/singapour/kuantan-aptc5" }]
+    }
+  ]
+}
